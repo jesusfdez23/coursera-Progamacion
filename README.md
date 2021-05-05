@@ -1,2 +1,2 @@
 # coursera-Progamacion
-Curso de aprendizaje a Programación de Coursera
+Curso aprendizaje a Programación de Coursera
